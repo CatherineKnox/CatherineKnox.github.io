@@ -15,14 +15,14 @@ Microfluidic devices, also known as uFluidic devices, are small systems that man
 The primary application for the microfluidic device below is homogenous mixing. Homogeneous mixing is the process of thoroughly mixing two or more substances to achieve uniform composition. This means the individual components introduced to the system are distributed evenly at a molecular level. Homogenous mixing is an integral part of many industries. One prominent application of homogenous mixing in microfluidic devices is cell culture and tissue engineering. Uniform distribution of nutrients, growth factors, and cells within microfluidic chambers enables precise control over cellular behavior and tissue development.
 
 
-* **Challenges of Mixing in Microfluidic Devices ** 
+* **Challenges of Mixing in Microfluidic Devices** 
 
 Homogenous mixing can be achieved through microfluidic mixing but can face certain obstacles. Some of the main challenges of homogenous mixing in microfluidic applications include: 
 1. Laminar Flow: In microfluidic devices, laminar flow occurs in which fluid layers flow parallel to each other with mixing between them occurring through diffusion. This is non-ideal when compared to turbulent flow, in which large volumes of fluid mix rapidly. 
 2. Diffusion Limitations: Diffusion is relatively slow when small length scales are involved. Diffusion can be increased by increasing the cross-sectional area of the path.
 3. Low Reynolds number regime: Microfluidic flow operates at a low Reynolds numbers, where inertia is negligible compared to viscous forces. This means the flow will remain smooth but mixing is limited since turbulent mixing is not achieved. 
 
-* **A Solution to Issues Pertaining Mixing ** 
+* **A Solution to Issues Pertaining Mixing** 
 
 A solution to low homogenous mixing on the microfluidic level is to enhance the channel geometry of the device. Changing the design and geometry of microfluidic channels can greatly increase mixing. Including complex geometries such as serpentine channels, inlined mixers, and obstacles can enhance chaotic advection, which is molecular deviation from straight laminar flow lines. Chaotic advection is a property that can enhance mixing at the microfluidic level.
 
