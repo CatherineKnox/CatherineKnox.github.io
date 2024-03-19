@@ -51,3 +51,6 @@ Following curing, the prints were transferred to a Labcoter PDS 2010 parylene de
 ## CAD Model 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e12cd8210f025b9b8?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+## Video of Device Operation 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/83zOZ-8wI3c?si=YLEyfSfO9buLCHN7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
