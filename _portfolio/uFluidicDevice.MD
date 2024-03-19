@@ -2,8 +2,8 @@
 title: "uFluidic Device 3D Printed Mold & Cast"
 excerpt: "This microfluidic device can be used for homogenous mixing of two fluids on a scale of microliters."
 header:
-  image: /assets/img/Mold and Cast.HEIC
-  teaser: /assets/img/Mold and Cast.HEIC
+  image: /assets/img/Mold and Cast.jpg
+  teaser: /assets/img/Mold and Cast.jpg
 ---
 
 # Details
@@ -41,11 +41,11 @@ The microfluidic mold for the device were designed with the Fusion 360 (Autodesk
 Following curing, the prints were transferred to a Labcoter PDS 2010 parylene deposition machine, where they were coated with parylene-C in accordance with the manufacturer's specifications. Since this device was not purposed for cell culture, it was placed into a plastic petri dish, and polydimethyl siloxane (PDMS) elastomer and curing agent were mixed at a weight ratio of 10:1 and poured onto the print. The mixture underwent a degassing process for 30 minutes within a vacuum chamber and was then cured in an oven at 80°C for 3 hours. Following demolding, PDMS devices were bonded to glass coverslips using a PlasmaFlo PDC-FMG plasma cleaner from Harrick Plasma. Prior to use, these devices were sterilized in an autoclave.
 
 
-![Mold and Cast Image](/assets/img/Mold and Cast.HEIC 'Resin 3D Mold and PDMS Cast Together')
+![Mold and Cast Image](/assets/img/Mold and Cast.jpg 'Resin 3D Mold and PDMS Cast Together')
 
-![Mold of uFluidic Device](/assets/img/Just Mold.HEIC 'Resin 3D Printed Mold of uFluidic Device')
+![Mold of uFluidic Device](/assets/img/Just Mold.jpg 'Resin 3D Printed Mold of uFluidic Device')
 
-![Assembled uFluidic Device](/assets/img/Assembled Device.HEIC 'Final Assembled uFluidic Device')
+![Assembled uFluidic Device](/assets/img/Assembled Device.jpg 'Final Assembled uFluidic Device')
 
 ## CAD Model 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e12cd8210f025b9b8?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
