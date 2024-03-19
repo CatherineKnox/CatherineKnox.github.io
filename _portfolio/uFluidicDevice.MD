@@ -45,7 +45,8 @@ Following curing, the prints were transferred to a Labcoter PDS 2010 parylene de
 
 ![Mold of uFluidic Device](/assets/img/Just Mold.jpg 'Resin 3D Printed Mold of uFluidic Device')
 
-![Assembled uFluidic Device](/assets/img/Assembled Device.jpg 'Final Assembled uFluidic Device')
+<img src="https://github.com/CatherineKnox/CatherineKnox.github.io/blob/main/assets/img/Assembled%20Device.jpg?raw=true" alt="image" width="50%" height="auto">
+
 
 ## CAD Model 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e12cd8210f025b9b8?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
