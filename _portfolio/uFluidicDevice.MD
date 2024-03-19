@@ -2,8 +2,8 @@
 title: "uFluidic Device 3D Printed Mold & Cast"
 excerpt: "This microfluidic device can be used for homogenous mixing of two fluids on a scale of microliters."
 header:
-image: /assets/img/Header Picture.jpg
-teaser: /assets/img/Header Picture.jpg
+  image: /assets/img/Header Picture.jpg
+  teaser: /assets/img/Header Picture.jpg
 ---
 
 # Details
