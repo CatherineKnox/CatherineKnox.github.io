@@ -14,50 +14,9 @@ Multimaterial pliers incorporate different materials in their construction with 
 
 Print-in-place applications extend across various industries, from consumer products to aerospace. A particularly exciting application of print-in-place and multilateral technology is for creating complex medical prosthetics. Multi-material printing allows prosthetics to be custom fitted to the user's specific anatomical measurements, ensuring a comfortable fit. By using print-in-place techniques, prosthetics are designed with integrated joints that adapt to the user's movements. 
 
-* **User Operation Instructions** 
+* **Design Process** 
+
+* **Device Specifications** 
 
 ## CAD Model 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ed388afe113beae6f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-## Arduino Code 
-Attatched is the file to the [Arduino code](/SyringePumpArduinoCodeGithub.MD) to operate the Syringe Pump.
-
-# Table 1 
-**Parts Required to Purchase** 
-
-|Part Name|Quantity|
-|--------|--------|
-|Power Supply 24V|1|
-|A4988 Stepper Driver|1|
-|Arduino Uno|1|
-|Circuit board|1|
-|RGB Common Cathode LED|1|
-|10K Potentiometer|1|
-|M10 Button|     1|
-|.5" ANSI Unified Button  |  2|
-|NEMA 17 Motor|1|
-|2048 Aluminum Extrusion 1"|4|
-|Lock Collar Lead Screw|1|
-|Alloy Steel Cup Set Screw|1|
-|Lock Collar Linear Rod|2|
-|Flexible Coupler|2|
-|Flanged Ball Bearing|1|
-|M3*10mm Bolt|10|
-|M5*8mm Bolt|4|
-|LMUU Linear Bearing|1|
-|M3 Heat Set Insert|4|
-|Nut Tr8*8|4|
-|M5 Tee nut|4|
-
-# Table 2 
-**3D Printed Components Required** 
-
-|Component Name|Quantity|
-|--------|--------|
-|Electrical Enclosure Side Panels|4|
-|Electrical Enclosure Top and Bottom Panels|2|
-|Motor Mounting Plate|1|
-|Linear Carriage|1|
-|Syringe Barrel Support Plate|1|
-|Syringe Nozzle Support Plate|1|
-|Syringe Nozzle Support Plate|1|
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e5556d25f7eecaa6f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
