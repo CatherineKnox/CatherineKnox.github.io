@@ -52,5 +52,6 @@ header:
 *Finalized Multimaterial Plier Product*
 
 ![Plier Gif](/assets/img/Pliersslow.gif)
+
 *Functionality of Multimaterial Plier Product*
 
