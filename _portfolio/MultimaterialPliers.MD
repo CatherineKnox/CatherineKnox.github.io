@@ -31,19 +31,19 @@ While print-in-place technology could have been used for this design, the design
 
 | Measurement Type         | Value (mm) | 
 |--------------|:-----:|
-| Full Length |170 mm    |
-| Handle Length     |70 mm |
-| Jaw Length | 50 mm   |
-| Spring Component Side Length    |30 mm |
-| Jaw Capacity | 6.5 mm   |
-| Maximum Handle Width |65 mm |
+| Full Length |170    |
+| Handle Length     |70  |
+| Jaw Length | 50   |
+| Spring Component Side Length    |30  |
+| Jaw Capacity | 6.5   |
+| Maximum Handle Width |65  |
  
 
 ## CAD Model 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e5556d25f7eecaa6f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Pictures of Product 
-![First Iteration](/assets/img/Final Pliers.JPG)
+![First Iteration](/assets/img/First Iteration Pliers.JPG)
 *First Iteration of Multimaterial Pliers*
 
 ![Finalized product](/assets/img/Final Pliers.JPG)
