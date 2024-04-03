@@ -42,11 +42,13 @@ While print-in-place technology could have been used for this design, the design
 ## CAD Model 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e5556d25f7eecaa6f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-
+## Pictures of Product 
 ![First Iteration](/assets/img/Final Pliers.JPG)
 *First Iteration of Multimaterial Pliers*
 
 ![Finalized product](/assets/img/Final Pliers.JPG)
 *Finalized Multimaterial Plier Product*
 
+![Plier Gif](/assets/img/Pliersslow.gif)
+*Functionality of Multimaterial Plier Product*
 
