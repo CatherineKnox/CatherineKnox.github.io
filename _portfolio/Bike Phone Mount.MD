@@ -23,6 +23,12 @@ When embarking on quick design modeling in Autodesk Fusion 360, a top-down model
 
 In this assignment, top-down modeling was leveraged by utilizing a phone case model as the foundation for designing the holder and referencing a bike handlebar to design the clamp. The entire assembly was built from these starting points, ensuring seamless integration and precise alignment throughout the process.
 
+#Assembly Instructions
+
+After the design, 3D print, and removal of support material, the assembly of the phone mounting system is simple. All that is needed for assembly are 6 M5 heat-set inserts, 3 M5 x 5-10 mm screws, and a heating device to ush the heat-set inserts into place. 4 Heat-set inserts should be inserted at each of the screw holes on the tabs for the handlebar clamp and a heat-set insert must be placed in the center of the phone holder and the center of the shaft connected to the ball joint. 
+
+After the heat-set inserts are in place, a shorter M5 screw must be used to attach the phone holder to the ball joint shaft. Two longer M5 screws can be tightened on the tabs to clamp the phone mount into place on the handlebar. The male fastener can now be tightened by hand to secure the phone holder in the optimal position. 
+
 ## CAD Model 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee935ee829b7e9fc9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
