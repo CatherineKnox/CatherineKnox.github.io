@@ -1,30 +1,43 @@
 ---
-title: "Bike Phone Mount"
-excerpt: "This functional, 3 part, 3D Printed mount securely attaches an iPhone to a Bike Handlebar "
+title: " Phone Mounting System on Bike Handlebar "
+excerpt: "This functional,  3DpPrinted mount securely attaches an iPhone to a bike handlebar. "
 header:
-  image: /assets/img/Phone Bike Mount Photo to Use .jpg
-  teaser: /assets/img/Phone Bike Mount Photo to Use .jpg
+  image: /assets/img/Front View Mount.png
+  teaser: /assets/img/Side View Mount _finished.png
 ---
+## Phone Mounting System on Bike Handlebar 
 
-# About this Project
+# About the Design
+The phone-bike mounting system was meticulously designed to securely hold an iPhone 12 Pro Max on handlebars amidst potentially turbulent biking conditions.
 
-In this project, a mount for an iPhone 12 Pro Max with a phone case was designed in Autodesk Fusion 360 using a top-down modeling approach. Afterwards, the four components were printed on a Voron printer using rigid Polylactic acid (PLA). 
+The handlebar attachment features a cylindrical hollow mechanism that effortlessly slides over handlebars with diameters ranging from 23 mm to 25 mm. This attachment securely clamps around the handlebar when bolts are tightened, facilitated by heat-set inserts on adjacent tabs. This design choice ensures adaptability to different bike handlebar sizes. Moreover, the handlebar attachment includes a socket tailored to accommodate a ball joint, seamlessly integrated into the primary structure, with a female adapter sporting an M16 x 2 thread positioned perpendicular to the base of the socket.
 
-# The Design Process
+The male adapter tightens around the ball joint via the female adapter system on the handlebar clamp. The male adapter's base features a hemisphere cutout, ensuring a snug fit around the ball joint. Additionally, the fastener incorporates five grips in a circular pattern, enhancing torque and the iPhone holder's locking ability in a fixed position.
 
-# Top Down Modeling
+The centerpiece of the mount is the ball joint-to-iPhone holder connection, reinforced by a heat-set insert and screw assembly. This construction minimizes print times and filament waste on the Voron printer. The iPhone holder itself boasts a snug fit, accommodating both the phone and its protective case without compromising security. Although not adjustable to other iPhone sizes, the design ensures a stable and protective hold on the iPhone 12 Pro Max throughout the journey.
+
+This system enables cyclists to seamlessly transition between vertical and horizontal phone orientations, facilitated by the adaptable ball joint, enhancing viewing angles while navigating diverse terrains.
+
+After completing the design, the assembly was printed on a Voron printer using rigid Polylactic acid (PLA). PLA was chosen for its durability and rigidity, ensuring the mount's structural integrity during rigorous cycling endeavors.
+
+# Top-Down Modeling
+When embarking on quick design modeling in Autodesk Fusion 360, a top-down modeling approach was chosen. This feature, exclusive to Fusion 360, allows for the design of multi-component assemblies by sketching directly on existing parts and integrating them in place with as-built joints. This method expedites workflow when designing components requiring specific dimensions, ensuring perfect alignment throughout the assembly process. The top-down approach in Fusion 360 proves invaluable for projects requiring agility and versatility, enabling designers to efficiently navigate complex design challenges and produce high-quality results within accelerated timelines.
+
+In this assignment, top-down modeling was leveraged by utilizing a phone case model as the foundation for designing the holder and referencing a bike handlebar to design the clamp. The entire assembly was built from these starting points, ensuring seamless integration and precise alignment throughout the process.
 
 ## CAD Model 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee935ee829b7e9fc9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Pictures of Bike Mount Product
-![Standalone Bike Mount](/assets/img/Bike Mount Hawiian.png)
+![Standalone Bike Mount](/assets/img/Front View Mount.png)
+
 *Standalone Bike Mount*
 
 ![Bike Mount with Phone](/assets/img/Phone Mount Hold Picture.png)
-*Bike Mount Holding IPhone*
 
-![Bike Phone Mount](/assets/img/Bike Phone Mount Testing #1.png)
-![Bike Phone Mount](/assets/img/Bike Mount testing 2.png)
+*Bike Mount Holding iPhone*
+
+![Bike Phone Mount](/assets/img/Bike Phone Mount Testing 1.png)
+
 *Bike Mount Attached to Bike Handlebar*
 
