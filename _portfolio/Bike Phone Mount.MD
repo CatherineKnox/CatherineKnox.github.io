@@ -2,7 +2,7 @@
 title: " Phone Mounting System on Bike Handlebar "
 excerpt: "This functional,  3DpPrinted mount securely attaches an iPhone to a bike handlebar. "
 header:
-  image:  /assets/img/Side View Mount _finished.png
+  image:/assets/img/Side View Mount _finished.png
   teaser:/assets/img/Front View Mount.png 
 ---
 # About the Design
