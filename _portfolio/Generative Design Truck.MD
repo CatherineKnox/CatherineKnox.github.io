@@ -1,12 +1,12 @@
 ---
-title: " Phone Mounting System on Bike Handlebar "
-excerpt: "This functional,  3D Printed mount securely attaches an iPhone to a bike handlebar. "
+title: " Generative Design Truck for Electric Skateboard"
+excerpt: "This AI-driven design integrates a lightweight truck, with a motor mount for an electric skateboard motor. "
 header:
   image: /assets/img/Side View Mount _finished header.png
   teaser: /assets/img/Front View Mount 1.png 
 ---
-# About the Design
-The phone-bike mounting system was meticulously designed to securely hold an iPhone 12 Pro Max on handlebars amidst potentially turbulent biking conditions.
+# About the Project
+The 
 
 The handlebar attachment features a cylindrical hollow mechanism that effortlessly slides over handlebars with diameters ranging from 23 mm to 25 mm. This attachment securely clamps around the handlebar when bolts are tightened, facilitated by heat-set inserts on adjacent tabs. This design choice ensures adaptability to different bike handlebar sizes. Moreover, the handlebar attachment includes a socket tailored to accommodate a ball joint, seamlessly integrated into the primary structure, with a female adapter sporting an M16 x 2 thread positioned perpendicular to the base of the socket.
 
