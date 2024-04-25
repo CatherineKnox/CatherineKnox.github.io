@@ -13,7 +13,7 @@ This project incorporates generative design methods to create a Truck Hanger and
 
 * **Generative Design**
 
-Generative design involves leveraging artificial intelligence to create computer-aided design (CAD) models based on user-defined parameters. Within Autodesk Fusion 360, the generative design workspace can be used to create complex and niche geometries for various applications. Important inputs include obstacle geometries, preserve geometries, and load cases. These elements guide the generative process by indicating which areas must remain void, which geometries should be preserved, and what structural constraints and loads the design will endure.
+Generative design involves leveraging artificial intelligence to create computer-aided design (CAD) models based on user-defined parameters. Within Autodesk Fusion 360, the generative design workspace can be used to create complex and niche geometries for various applications. Important inputs in the generative design workspace include obstacle geometries, preserve geometries, and load cases. These elements guide the generative process by indicating which areas must remain void, which geometries should be preserved, and what structural constraints and loads the design will endure.
 
 In this project, the obstacle geometry objects included wheels, pulley gears, the motor, kingpin, the floor, and the longboard. Preserve geometries, which must be included in the final model, served as foundational guides. In this case, the preserved geometries were the motor mount, screw enclosure, and the fitting between the kingpin bushing and the pivot joint.
 
@@ -33,18 +33,17 @@ Although generative design offers several advantages, the process can slow down 
 
 Despite these limitations, generative design holds tremendous promise, especially when used alongside additive manufacturing (AM). The organic and complex shapes it generates are ideally suited for powder printing, a popular AM technique that can precisely create intricate forms. This synergy between generative design and AM showcases the technology's full potential, opening new pathways for innovative designs while reducing material waste and promoting sustainability.
 
-In fact, in the aerospace and aviation industries, generative design can greatly improve aerodynamics by allowing engineers to develop components with optimized shapes and structures. This optimization leads not only to reduced drag but also to enhanced lift and stability. For example, using generative design, engineers can create wing sections, tail fins, and fuselage components that maximize airflow efficiency while minimizing turbulence. This aerodynamic improvement translates into fuel savings, reduced emissions, and a lower carbon footprint, aligning with the aviation industry's sustainability goals. Additionally, generative design can help optimize internal structures, such as aircraft seating, to reduce weight without compromising safety, further contributing to overall performance and efficiency. As these industries seek to evolve with environmental and economic challenges, generative design stands out as a key driver of innovation and sustainability.
+In fact, in the aerospace and aviation industries, generative design can greatly improve aerodynamics by allowing engineers to develop components with optimized shapes and structures. This optimization leads not only to reduced drag but also to enhanced lift and stability. For example, using generative design, engineers can create wing sections, tail fins, and fuselage components that maximize airflow efficiency while minimizing turbulence. This aerodynamic improvement translates into fuel savings, reduced emissions, and a lower carbon footprint, aligning with the aviation industry's sustainability goals. Additionally, generative design can help optimize internal structures, such as aircraft or spacecraft seating, to reduce weight without compromising safety, further contributing to overall performance and efficiency. As these industries seek to evolve with environmental and economic challenges, generative design stands out as a key driver of innovation and sustainability.
 
 ## CAD Models
 
-# Nylon 12 Truck Hanger and Motor Mount
-
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e650066993f9208e8?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# ALSi10Mg Truck Hanger and Motor Mount
+*Nylon 12 Truck Hanger and Motor Mount*
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e5dcc7bc7439189ac?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+*ALSi10Mg Truck Hanger and Motor Mount*
 
 ## Model Renderings 
 
@@ -55,7 +54,6 @@ In fact, in the aerospace and aviation industries, generative design can greatly
 ![TruckNylon](/assets/img/Final Rendering Different 3.png)
 
 *Nylon 12 Truck Hanger Model Rendering*
-
 
 ## Pictures of Nylon 12 3D Printed Truck Hanger and Motor Mount
 
