@@ -2,8 +2,8 @@
 title: " 3D Printed, Rigid Pickleball Paddle "
 excerpt: "This rigid pickleball paddle is equipped with a flexible edge guard and an enhanced grip."
 header:
-  image: /assets/img/Side View Mount _finished header.png
-  teaser: /assets/img/Front View Mount 1.png 
+  image: /assets/img/Pickleball paddle photo.png
+  teaser: /assets/img/Pickleball paddle photo.png
 ---
 # About the Product
 
@@ -21,7 +21,7 @@ The paddle's surface is smooth and free from delaminations or cracks, which ensu
 
 The pickleball paddle has two modifications that enhance its functionality. This first is a TPU grip with a chevron extruded pattern on the handle. This is designed to increase friction between the user's hand and the handle. The textured surface provides a secure grip, which increases ease of use. The filleted design of the grip increases ergonomics, which may reduce hand fatigue during long games. 
 
-The second alteration is a removable edge guard, designed to protect the paddle during storage. The flexible guard snaps into place onto the outer edge of the paddle, offering protection against impact and reducing the risk of damage. The edge guard can be easily removed before play. Additionally, its cushioned extrusion of .08 inches offers extra protection if the paddle was dropped, preserving the edge and the face of the paddle. These alterations contribute to a more durable and user-friendly pickleball experience. 
+The second alteration is a removable edge guard, designed to protect the paddle during storage. The flexible guard snaps into place onto the outer edge of the paddle, offering protection against impact and reducing the risk of damage. The edge guard can be easily removed before play. Additionally, its cushioned extrusion of .08 inches offers extra protection if the paddle is dropped, preserving the edge and the face of the paddle. These alterations contribute to a more durable and user-friendly pickleball experience. 
 
 # Weight and Mass Considerations 
 
@@ -29,16 +29,16 @@ The pickleball paddle was designed with careful attention to weight and balance.
 
 To achieve this center of mass in Fusion 360, an internal infill pattern was created using the extrusion tool. This reduced the top-heavy weight of the paddle and optimized balance. To further reduce paddle weight, a low infill of 7% was implemented. The precise location of the center of mass was calculated using the center of mass locator on Fusion 360, which accounts for all of the assembly's components and materials. 
 
-This design approach ensures that the paddle is lightweight without sacrificing durability. and the position of the center of mass optimizing control of the ball. The balanced paddle is ideal for players of any difficulty seeking paddle solutions with improved maneuverability, power, and a light-weight feel.
+This design approach ensures that the paddle is lightweight without sacrificing durability. and the position of the center of mass optimizing control of the ball. The balanced paddle is ideal for players of any difficulty seeking paddle solutions with improved maneuverability, power, and a lightweight feel.
 
 ## CAD Model 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e6dd34b69c1b8cc2c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Pictures Pickleball Paddle
-![Standalone Bike Mount](/assets/img/Front View Mount.png)
+![Pickleball Handle](/assets/img/Pickleball handle.png)
 
 *Pickleball Paddle Handle*
 
-![Bike Mount with Phone](/assets/img/Phone Mount Hold Picture.png)
+![Pickleball Paddle](/assets/img/Pickleball paddle photo.png)
 
-*Full Pickleball Paddle*
+*Full Pickleball Paddle with Edge Guard*
