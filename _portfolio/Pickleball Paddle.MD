@@ -1,46 +1,44 @@
 ---
-title: " Phone Mounting System on Bike Handlebar "
-excerpt: "This functional,  3D Printed mount securely attaches an iPhone to a bike handlebar. "
+title: " 3D Printed, Rigid Pickleball Paddle "
+excerpt: "This rigid pickleball paddle is equipped with a flexible edge guard and an enhanced grip."
 header:
   image: /assets/img/Side View Mount _finished header.png
   teaser: /assets/img/Front View Mount 1.png 
 ---
-# About the Design
-The phone-bike mounting system was meticulously designed to securely hold an iPhone 12 Pro Max on handlebars amidst potentially turbulent biking conditions.
+# About the Product
 
-The handlebar attachment features a cylindrical hollow mechanism that effortlessly slides over handlebars with diameters ranging from 23 mm to 25 mm. This attachment securely clamps around the handlebar when bolts are tightened, facilitated by heat-set inserts on adjacent tabs. This design choice ensures adaptability to different bike handlebar sizes. Moreover, the handlebar attachment includes a socket tailored to accommodate a ball joint, seamlessly integrated into the primary structure, with a female adapter sporting an M16 x 2 thread positioned perpendicular to the base of the socket.
+This pickleball paddle was designed in Autodesk Fusion 360 to meet all 2024 pickleball regulations and incorporate two enhancements. The pickleball paddle was 3D printed on a Voron printer using Polylactic Acid (PLA) for rigidity. The edge guard and grip enhancements are printed using Thermoplastic polyurethane (TPU) to add flexible components. 
 
-The male adapter tightens around the ball joint via the female adapter system on the handlebar clamp. The male adapter's base features a hemisphere cutout, ensuring a snug fit around the ball joint. Additionally, the fastener incorporates five grips in a circular pattern, enhancing torque and the iPhone holder's locking ability in a fixed position.
+# Regulatory Requirements 
 
-The centerpiece of the mount is the ball joint-to-iPhone holder connection, reinforced by a heat-set insert and screw assembly. This construction minimizes print times and filament waste on the Voron printer. The iPhone holder itself boasts a snug fit, accommodating both the phone and its protective case without compromising security. Although not adjustable to other iPhone sizes, the design ensures a stable and protective hold on the iPhone 12 Pro Max throughout the journey.
+The pickleball paddle complies with regulations listed in the 2024 Pickleball Handbook. It is made of rigid PLA, a non-compressible material, and meets the size constraints. The combined length and width of the paddle is 18.3 inches, which does not exceed the limit of 24 inches. The length of the paddle component is 11 inches, which complies with the limit of 17 inches. 
 
-This system enables cyclists to seamlessly transition between vertical and horizontal phone orientations, facilitated by the adaptable ball joint, enhancing viewing angles while navigating diverse terrains.
+The pickleball paddle design incorporates a flexible edge guard and TPU grip enhancer, both of which are allowed according to the handbook. Neither modification extends more than 0.5 inches onto the paddle's outer edge, which keeps it within regulation. 
 
-After completing the design, the assembly was printed on a Voron printer using rigid Polylactic acid (PLA). PLA was chosen for its durability and rigidity, ensuring the mount's structural integrity during rigorous cycling endeavors.
+The paddle's surface is smooth and free from delaminations or cracks, which ensures optimal performance. This paddle is designed to be durable and withstand repeated use during pickleball matches, proving it to be a competitive and functional product. The condition of this paddle exceeds the standards outlined in the pickleball handbook. 
 
-# Top-Down Modeling
-When embarking on quick design modeling in Autodesk Fusion 360, a top-down modeling approach was chosen. This feature, exclusive to Fusion 360, allows for the design of multi-component assemblies by sketching directly on existing parts and integrating them in place with as-built joints. This method expedites workflow when designing components requiring specific dimensions, ensuring perfect alignment throughout the assembly process. The top-down approach in Fusion 360 proves invaluable for projects requiring agility and versatility, enabling designers to efficiently navigate complex design challenges and produce high-quality results within accelerated timelines.
+# Additional Alterations
 
-In this assignment, top-down modeling was leveraged by utilizing a phone case model as the foundation for designing the holder and referencing a bike handlebar to design the clamp. The entire assembly was built from these starting points, ensuring seamless integration and precise alignment throughout the process.
+The pickleball paddle has two modifications that enhance its functionality. This first is a TPU grip with a chevron extruded pattern on the handle. This is designed to increase friction between the user's hand and the handle. The textured surface provides a secure grip, which increases ease of use. The filleted design of the grip increases ergonomics, which may reduce hand fatigue during long games. 
 
-# Assembly Instructions
+The second alteration is a removable edge guard, designed to protect the paddle during storage. The flexible guard snaps into place onto the outer edge of the paddle, offering protection against impact and reducing the risk of damage. The edge guard can be easily removed before play. Additionally, its cushioned extrusion of .08 inches offers extra protection if the paddle was dropped, preserving the edge and the face of the paddle. These alterations contribute to a more durable and user-friendly pickleball experience. 
 
-After the design, 3D print, and removal of support material, the assembly of the phone mounting system is simple. All that is needed for assembly are 6 M5 heat-set inserts, 3 M5 x 5-10 mm screws, and a heating device to ush the heat-set inserts into place. 4 Heat-set inserts should be inserted at each of the screw holes on the tabs for the handlebar clamp and a heat-set insert must be placed in the center of the phone holder and the center of the shaft connected to the ball joint. 
+# Weight and Mass Considerations 
 
-After the heat-set inserts are in place, a shorter M5 screw must be used to attach the phone holder to the ball joint shaft. Two longer M5 screws can be tightened on the tabs to clamp the phone mount into place on the handlebar. The male fastener can now be tightened by hand to secure the phone holder in the optimal position. 
+The pickleball paddle was designed with careful attention to weight and balance. The paddle alone weighs 7.43 ounces, which is on the lighter side of a mid-weight paddle. This specific weight was chosen to optimize control and maneuverability without compromising power. Additionally, the paddle's center of mass is positioned 0.5 inches above the assembly's centerline, providing better control during gameplay. 
+
+To achieve this center of mass in Fusion 360, an internal infill pattern was created using the extrusion tool. This reduced the top-heavy weight of the paddle and optimized balance. To further reduce paddle weight, a low infill of 7% was implemented. The precise location of the center of mass was calculated using the center of mass locator on Fusion 360, which accounts for all of the assembly's components and materials. 
+
+This design approach ensures that the paddle is lightweight without sacrificing durability. and the position of the center of mass optimizing control of the ball. The balanced paddle is ideal for players of any difficulty seeking paddle solutions with improved maneuverability, power, and a light-weight feel.
 
 ## CAD Model 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee935ee829b7e9fc9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e6dd34b69c1b8cc2c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-## Pictures of Bike Mount Product
+## Pictures Pickleball Paddle
 ![Standalone Bike Mount](/assets/img/Front View Mount.png)
 
-*Standalone Bike Mount*
+*Pickleball Paddle Handle*
 
 ![Bike Mount with Phone](/assets/img/Phone Mount Hold Picture.png)
 
-*Bike Mount Holding iPhone*
-
-![Bike Phone Mount](/assets/img/Bike Phone Mount Testing 1.png)
-
-*Bike Mount Attached to Bike Handlebar*
+*Full Pickleball Paddle*
