@@ -48,7 +48,7 @@ In fact, in the aerospace and aviation industries, generative design can greatly
 
 ## Model Renderings 
 
-![TruckALSi10mg](/assets/img/Aluminum Hanger rendering.png)
+![TruckALSi10mg](/assets/img/Aluminum Hanger rendering .png)
 
 *ALSi10Mg Truck Hanger Model Rendering*
 
