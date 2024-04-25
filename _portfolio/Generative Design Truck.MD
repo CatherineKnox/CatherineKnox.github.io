@@ -2,29 +2,38 @@
 title: " Generative Design Truck for Electric Skateboard"
 excerpt: "This AI-driven design integrates a lightweight truck, with a motor mount for an electric skateboard motor. "
 header:
-  image: /assets/img/Final Picture Generative Design Truck Above View.png
-  teaser: /assets/img/Final Picture Truck 2.png
+  image: /assets/img/Final Picture Generative Design Truck Above View 2.png
+  teaser: /assets/img/Final Picture Truck 3.png
 ---
-# About the Project 
+# Details
 
-This project incorporates generative design methods to create a Truck Hanger and Motor Mount body for an electric skateboard based on user parameters. Two models were generated according to the tensile strength of two different materials, Nylon 12 nd the aluminum alloy, AlSi10Mg. 
+* **About the Project**
 
-# Generative Design 
+This project incorporates generative design methods to create a Truck Hanger and Motor Mount body for an electric skateboard based on user parameters. Two models were generated according to the tensile strength of two different materials, Nylon 12 and the aluminum alloy, AlSi10Mg. 
 
-Generative design involves leveraging artificial intelligence to create computer-aided design (CAD) models based on user-defined parameters. Within Autodesk Fusion 360, one can utilize the generative design workspace to create complex and niche geometries for various applications.  Important inputs include obstacle geometries, preserve geometries, and load cases. These elements guide the generative process by indicating what areas must remain void, which geometries should be preserved, and what structural constraints and loads the design will endure.
+* **Generative Design**
 
-In our project, the obstacle geometries—areas to avoid—comprised the wheels, pulley gears, motor, kingpin, and the floor and longboard. Preserve geometries, which must be included in the final model, served as foundational guides. In this case, the preserve geometries were the motor mount, screw enclosure, and the fitting between the kingpin bushing and the pivot joint.
+Generative design involves leveraging artificial intelligence to create computer-aided design (CAD) models based on user-defined parameters. Within Autodesk Fusion 360, the generative design workspace can be used to create complex and niche geometries for various applications. Important inputs include obstacle geometries, preserve geometries, and load cases. These elements guide the generative process by indicating which areas must remain void, which geometries should be preserved, and what structural constraints and loads the design will endure.
 
-Load cases define the forces and constraints on the model. For our design, we included structural constraints like pins and rollers, alongside varied loads such as bearing forces, moments, remote force loads, and remote moment loads. In total, we applied two structural constraints and seven loads across different positions, with the kingpin and pivot joint constrained, and loads spread across the hanger and motor mount to simulate shear, moment, and weight forces.
+In this project, the obstacle geometry objects included wheels, pulley gears, the motor, kingpin, the floor, and the longboard. Preserve geometries, which must be included in the final model, served as foundational guides. In this case, the preserved geometries were the motor mount, screw enclosure, and the fitting between the kingpin bushing and the pivot joint.
 
-One of the challenges with generative design is the time required for each iteration. Generative design can take between 30 minutes and an hour to produce a single iteration, significantly extending the design process, especially when compared to manual CAD design. This limitation became apparent when working with materials like Nylon 12 and AlSi10Mg, requiring multiple iterations to achieve a feasible model due to their specific tensile strengths.
+Load cases define the forces and constraints on the model. For our design, structural constraints like pins and rollers were included, along with varied loads such as bearing forces, moments, remote force loads, and remote moment loads. In total, two structural constraints and seven loads across different positions were applied, with the kingpin bushing fitting and pivot joint constrained, and loads spread across the hanger and motor mount to simulate shear, moment, and weight forces.
 
-Generative design has a unique trait: it often produces organic, curvilinear geometries, which may not suit all design aesthetics or structural needs. This organic nature is both a benefit and a limitation—it can create resource-efficient biomorphic shapes but may not be ideal for designs requiring more conventional, linear geometries. Moreover, the process can stall when dealing with complex geometries, highlighting the need for careful planning of obstacle and preserve geometries.
+The most prevalent forces on the assembly included a shear force of 250 N acting on the end of the hanger due to the wheels, a downward force caused by the weight of the user, and moments acting on the motor mount due to the motor's weight and rotational inertia when it is turning.
 
-Additionally, the cost of generative design can be prohibitive without specialized software memberships like Autodesk Fusion. This makes it less accessible for students and those without institutional support.
+One of the challenges with generative design is the time required for each iteration. Generative design can take between 30 minutes and an hour to produce a single iteration, significantly extending the design process compared to manual CAD design. This limitation became apparent when working with materials like Nylon 12 and AlSi10Mg, requiring multiple iterations to achieve a feasible model due to their specific tensile strengths.
 
-Despite these challenges, generative design has immense potential, particularly when combined with additive manufacturing (AM). The organic geometries it creates are a perfect match for powder printing, a form of AM that can accurately produce complex shapes. This synergy between generative design and AM is where the technology truly shines, offering a path toward innovative design options while reducing material use and promoting sustainability.
+Generative design has a unique trait: it often produces organic, curvilinear geometries, which may not suit all design aesthetics or structural needs. This organic nature is both a benefit and a limitation—it can create resource-efficient biomorphic shapes but may not be ideal for designs requiring more conventional, linear geometries.
 
+Additionally, generative design and powder printing align in their focus on material efficiency and structural integrity. Generative design aims to reduce unnecessary bulk, creating lightweight designs, while powder printing minimizes waste by enabling layer-by-layer construction and recycling unused powder.
+
+Structural integrity is achieved through generative design's optimization for load cases and constraints, ensuring strength despite reduced weight. Powder printing, particularly with metals like aluminum and titanium, provides robust, durable parts that meet these optimized designs, allowing for innovative and reliable outcomes.
+
+Although generative design offers several advantages, the process can slow down when dealing with intricate geometries. This challenge underscores the importance of carefully planning obstacle and preserve geometries to avoid bottlenecks. Another drawback is the cost associated with generative design, as specialized software memberships in Autodesk Fusion 360 can be expensive, limiting access for individuals and smaller organizations without institutional backing.
+
+Despite these limitations, generative design holds tremendous promise, especially when used alongside additive manufacturing (AM). The organic and complex shapes it generates are ideally suited for powder printing, a popular AM technique that can precisely create intricate forms. This synergy between generative design and AM showcases the technology's full potential, opening new pathways for innovative designs while reducing material waste and promoting sustainability.
+
+In fact, in the aviation industry, generative design can greatly improve aerodynamics by allowing engineers to develop components with optimized shapes and structures. This optimization leads not only to reduced drag but also to enhanced lift and stability. For example, using generative design, engineers can create wing sections, tail fins, and fuselage components that maximize airflow efficiency while minimizing turbulence. This aerodynamic improvement translates into fuel savings, reduced emissions, and a lower carbon footprint, aligning with the aviation industry's sustainability goals. Additionally, generative design can help optimize internal structures, such as aircraft seating, to reduce weight without compromising safety, further contributing to overall performance and efficiency. As aviation seeks to evolve with environmental and economic challenges, generative design stands out as a key driver of innovation and sustainability.
 
 ## CAD Models
 
@@ -34,11 +43,23 @@ Despite these challenges, generative design has immense potential, particularly 
 
 # ALSi10Mg Truck Hanger and Motor Mount
 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee949501a58764ee2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e5dcc7bc7439189ac?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+
+## Model Renderings 
+
+![TruckALSi10mg](/assets/img/Aluminum Hanger rendering.png)
+
+*ALSi10Mg Truck Hanger Model Rendering*
+
+![TruckNylon](/assets/img/Final Rendering Different 3.png)
+
+*Nylon 12 Truck Hanger Model Rendering*
+
 
 ## Pictures of Nylon 12 3D Printed Truck Hanger and Motor Mount
 
-![Truck1](/assets/img/Final Picture Generative Design Truck Above View.png)
+![Truck1](/assets/img/Final Picture Generative Design Truck Above View 2.png)
 
 *Standalone Truck Hanger and Motor Mount #1*
 
@@ -48,5 +69,5 @@ Despite these challenges, generative design has immense potential, particularly 
 
 ![TruckLongboard](/assets/img/Truck on Skateboard.png)
 
-**Truck Hanger and Motor Mount on Longboard**
+*Truck Hanger and Motor Mount on Longboard*
 
