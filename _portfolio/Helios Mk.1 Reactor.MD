@@ -7,27 +7,66 @@ header:
 ---
 excerpt: "This AI-driven design integrates a lightweight truck, with a motor mount for an electric skateboard motor. "
 header:
-  image: /assets/img/Final Picture Generative Design Truck Above View 2.png
-  teaser: /assets/img/Final Picture Truck 3.png
+  image: /assets/img/fusion front view.jpg
+  teaser: /assets/img/fusion back.jpg
 ---
 # Details
 
 **About The Vanderbilt Fusion Project**
 
+The Vanderbilt Fusion Project is an undergraduate-led initiative at Vanderbilt University aimed at designing, building, and testing an Inertial Electrostatic Confinement (IEC) Fusion Device. The project involves a multidisciplinary team of students working together to advance nuclear fusion technology and gain practical experience in nuclear engineering, high-voltage systems, vacuum technology, and radiation safety.
+
 **About The Helios Mk. 1 Fusor**
+
+# HELIOS Mk. I Specifications
+
+| Specification                                  | Description                                                   |
+|------------------------------------------------|---------------------------------------------------------------|
+| **Device Name**                                | HELIOS Mk. I                                                  |
+| **Device Type**                                | Inertial Electrostatic Confinement (IEC) Fusion Device         |
+| **Device Classification**                      | Particle Accelerator                                           |
+| **Max Projected Primary Reaction Rate**        | 1,000,000 fusion events/sec                                    |
+| **Max Projected Primary Neutron Production**   | 500,000 2.45 MeV neutrons/sec                                  |
+| **Max Projected Secondary Neutron Production** | 500,000 14 MeV neutrons/sec                                    |
+| **Vacuum Chamber**                             | Spherical, 8 in. diameter, 304 stainless steel, ⅛” wall thickness|
+| **Fuel Type**                                  | Deuterium (stable isotope of hydrogen gas)                     |
+| **Max Operating Voltage**                      | -50 kV                                                         |
+| **Max Operating Current**                      | 10 mA                                                          |
+| **Max Operating Power**                        | 500 W                                                          |
+| **Operating Pressure**                         | 10⁻³ to 10⁻⁶ torr                                              |
+```
 
 * **Vacuum and Gas System**
 
-* **High Voltage Engineering**
+Below is a schematic of our current mechanical systems:
 
-* **Ion Gun Design Process**
+![mechanical system schematic](/assets/img/fusion mechanical systems.png)
+*mechanical system schematic*
+
+* **Electrical Systems**
+
+Below is a schematic of our current electrical system:
+
+![electrical system schematic](/assets/img/fusion electrical systems.png)
+*ELectrical system schematic*
+
+* **Ion Gun Design**
+
+ <iframe src="https://vanderbilt856.autodesk360.com/shares/public/SH286ddQT78850c0d8a432dad151cae76673?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Stainless Steel Spherical CAD Model
 
 <iframe src="https://vanderbilt856.autodesk360.com/shares/public/SH286ddQT78850c0d8a4dd526d881fb4e116?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-## Renderings of the Stainless Steel Chamber
+* **Reactor Photos**
 
-*Nylon 12 Truck Hanger Model Rendering*
+![fusion full front](/assets/img/fusion full front.jpg)
+*fusion full front*
+
+
+![fusion back](/assets/img/fusion back.jpg)
+*fusion back*
+
+
 
 
