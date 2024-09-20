@@ -2,11 +2,6 @@
 title: " Helios Mk.1 Fusion Reactor "
 excerpt: "Inertial Electrostatic Confinement Reactor which produces Plasma and Deuterium-Deuterium Fusion"
 header:
-  image: 
-  teaser: 
----
-excerpt: "This AI-driven design integrates a lightweight truck, with a motor mount for an electric skateboard motor. "
-header:
   image: /assets/img/fusion front view.jpg
   teaser: /assets/img/fusion back.jpg
 ---
@@ -20,21 +15,21 @@ The Vanderbilt Fusion Project is an undergraduate-led initiative at Vanderbilt U
 
 # HELIOS Mk. I Specifications
 
-| Specification                                  | Description                                                   |
-|------------------------------------------------|---------------------------------------------------------------|
-| **Device Name**                                | HELIOS Mk. I                                                  |
-| **Device Type**                                | Inertial Electrostatic Confinement (IEC) Fusion Device         |
-| **Device Classification**                      | Particle Accelerator                                           |
-| **Max Projected Primary Reaction Rate**        | 1,000,000 fusion events/sec                                    |
-| **Max Projected Primary Neutron Production**   | 500,000 2.45 MeV neutrons/sec                                  |
-| **Max Projected Secondary Neutron Production** | 500,000 14 MeV neutrons/sec                                    |
-| **Vacuum Chamber**                             | Spherical, 8 in. diameter, 304 stainless steel, ⅛” wall thickness|
-| **Fuel Type**                                  | Deuterium (stable isotope of hydrogen gas)                     |
-| **Max Operating Voltage**                      | -50 kV                                                         |
-| **Max Operating Current**                      | 10 mA                                                          |
-| **Max Operating Power**                        | 500 W                                                          |
-| **Operating Pressure**                         | 10⁻³ to 10⁻⁶ torr                                              |
-```
+| Specification                        | Description                                                  |
+|---------------------------------------|--------------------------------------------------------------|
+| **Device Name**                       | HELIOS Mk. I                                                 |
+| **Device Type**                       | Inertial Electrostatic Confinement (IEC) Fusion Device        |
+| **Maximum Projected Primary Reaction Rate** | 1,000,000 fusion events/sec                                  |
+| **Maximum Projected Primary Neutron Production Rate** | 500,000 2.45 MeV neutrons/sec                                 |
+| **Maximum Projected Secondary Neutron Production Rate** | 500,000 14 MeV neutrons/sec                                   |
+| **Vacuum Chamber**                    | Spherical, 8 in. diameter, 304 stainless steel, ⅛” chamber wall thickness |
+| **Fuel Type**                         | Deuterium (stable isotope of hydrogen gas)                   |
+| **Maximum Operating Voltage**         | -50 kV                                                       |
+| **Maximum Operating Current**         | 10 mA                                                        |
+| **Maximum Operating Power**           | 250 W                                                        |
+| **Operating Pressure**                | 10⁻³ to 10⁻⁶ torr                                            |
+
+
 
 * **Vacuum and Gas System**
 
