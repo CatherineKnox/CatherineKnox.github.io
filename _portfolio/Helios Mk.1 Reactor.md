@@ -5,6 +5,7 @@ header:
   image: /assets/img/fusion front view.jpg
   teaser: /assets/img/fusion back.jpg
 ---
+
 # Details
 
 **About The Vanderbilt Fusion Project**
@@ -15,7 +16,9 @@ The Vanderbilt Fusion Project is an undergraduate-led initiative at Vanderbilt U
 
 # HELIOS Mk. I Specifications
 
-| Specification                        | Description                                                  |
+* **Device Specifications** 
+
+| Specification                         | Description                                                  |
 |---------------------------------------|--------------------------------------------------------------|
 | **Device Name**                       | HELIOS Mk. I                                                 |
 | **Device Type**                       | Inertial Electrostatic Confinement (IEC) Fusion Device        |
@@ -28,8 +31,6 @@ The Vanderbilt Fusion Project is an undergraduate-led initiative at Vanderbilt U
 | **Maximum Operating Current**         | 10 mA                                                        |
 | **Maximum Operating Power**           | 250 W                                                        |
 | **Operating Pressure**                | 10⁻³ to 10⁻⁶ torr                                            |
-
-
 
 * **Vacuum and Gas System**
 
