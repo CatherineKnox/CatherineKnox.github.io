@@ -15,7 +15,7 @@ Catherine Knox is a mechanical engineering student interested in aerospace engin
  
 ## Interests
 
-Catherine loves to travel to new countries. She has spent time volunteering in Peru, Africa, and filming a [Documentary](https://www.instagram.com/madcatbrit?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) in South East Asia. Catherine loves to backpack, surf, run, and participate in mixed martial arts. She loves yoga, meditation, and her colorful Cotopaxi backpack. Her favorite book is "In Love with the World: A Monk's Journey through the Bardos of Living and Dying" by Yongey Mingyur Rinpoche. 
+Catherine loves to travel to new countries. She has spent time volunteering in Peru, Africa, and filming a [documentary](https://www.instagram.com/madcatbrit?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) in South East Asia. Catherine loves to backpack, surf, run, and participate in mixed martial arts. She loves yoga, meditation, and her colorful Cotopaxi backpack. Her favorite book is "In Love with the World: A Monk's Journey through the Bardos of Living and Dying" by Yongey Mingyur Rinpoche. 
 
 ## Technical Skills - Hardware
 
