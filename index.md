@@ -21,7 +21,7 @@ feature_row:
   - image_path: assets/img/FusionPresentation-1.png
     alt: "placeholder image 3"
     title: "the Vanderbilt Fusion Project"
-    excerpt: "I serve as the Chief People Officer and Advanced Concept System Team Leader."
+    excerpt: "I serve as the Chief Executive Officer and Advanced Concept System Team Leader."
 ---
 
 {% include feature_row %}
