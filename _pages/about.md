@@ -12,6 +12,10 @@ Catherine Knox is a mechanical engineering student interested in aerospace engin
   * Pursuing a BE in Mechanical Engineering
   * Minors: Digital fabrication, Chemistry
   * Expected Graduation: 2026
+ 
+## Interests
+
+Catherine loves to travel to new countries. She has spent time volunteering in Peru, Africa, and filming a [Documentary](https://www.instagram.com/madcatbrit?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) in South East Asia. Catherine loves to backpack, surf, run, and participate in mixed martial arts. She loves yoga, meditation, and her colorful Cotopaxi backpack. Her favorite book is "In Love with the World: A Monk's Journey through the Bardos of Living and Dying" by Yongey Mingyur Rinpoche. 
 
 ## Technical Skills - Hardware
 
@@ -28,15 +32,15 @@ Catherine can operate several 3D printers, machining tools, and welding equipmen
   * Drill Press
  
 * Welding
- * Metal inert gas welding
- * Oxy-acetylene welding
+  * Metal inert gas welding
+  * Oxy-acetylene welding
 
 ## Technical Skills - Software
 
 Catherine has experience using the following software:
 
 * Fusion360
-* SolidWorks Metal inert gas welding
+* SolidWorks 
 * MATLAB
 * OpenMC - Monte Carlo neutron transport code
 * LabVIEW
@@ -59,5 +63,7 @@ Catherine also has experience managing engineering organizations. She holds the 
 ## Press 
 
 The Vanderbilt Fusion Project was covered in [Vanderbilt Engineering News](https://engineering.vanderbilt.edu/news/2023/little-sphere-big-power-students-work-to-build-miniature-fusion-reactor/).
+
+
 
 
