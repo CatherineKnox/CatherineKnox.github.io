@@ -36,7 +36,7 @@ In our system, while we are not aiming to extract energy, we can detect the neut
 | **Fuel Type**                         | Deuterium (stable isotope of hydrogen gas)                   |
 | **Maximum Operating Voltage**         | -50 kV                                                       |
 | **Maximum Operating Current**         | 10 mA                                                        |
-| **Maximum Operating Power**           | 250 W                                                        |
+| **Maximum Operating Power**           | 500 W                                                        |
 | **Operating Pressure**                | 10⁻³ to 10⁻⁶ torr                                            |
 
 * **Vacuum and Gas System**
