@@ -19,7 +19,7 @@ Catherine loves to travel to new countries. She has spent time volunteering in P
 
 ## Technical Skills - Hardware
 
-Catherine can operate several 3D printers, machining tools, and welding equipment. Catherine has experience with the following technologies:
+Catherine can operate several 3D printers, machining tools, and welding equipment. Catherine is a teaching assistant for a machining class at Vanderbilt University. Catherine has experience with the following technologies:
 
 * Digital Fabrication Tools
   * Fused Filament Fabrication (FFF)
