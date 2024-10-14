@@ -52,7 +52,7 @@ Knowledge (BoK) for Practitioners” on the [CRESP Consortium](https://www.cresp
 
 ## Professional Skills
 
-Catherine also has experience managing engineering organizations. She holds the role of Chief People Officer and Advanced Concept System Leader in the [Vanderbilt Fusion Project](https://www.vanderbiltfusion.org/). She also runs her own tutoring business named [Cat's Tutoring](https://catstutoring.squarespace.com/) in which she tutors students at local Nashville High Schools and helps to set up other Vanderbilt students with a tutoring job. Catherine has had three professional internships in sustainable engineering, organic chemistry, and radioisotope power technology. Some of her specific professional skills include:
+Catherine also has experience managing engineering organizations. She holds the role of Chief Executive Officer and Advanced Concept System Leader in the [Vanderbilt Fusion Project](https://www.vanderbiltfusion.org/). She also runs her own tutoring business named [Cat's Tutoring](https://catstutoring.squarespace.com/) in which she tutors students at local Nashville High Schools and helps to set up other Vanderbilt students with a tutoring job. Catherine has had three professional internships in sustainable engineering, organic chemistry, and radioisotope power technology. Some of her specific professional skills include:
 
 * Organizational Management
 * Microsoft Suite
